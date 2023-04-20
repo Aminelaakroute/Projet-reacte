@@ -1,0 +1,35 @@
+
+.Hero-main{
+    background-color: var(--color-dark);
+    background-image: url(../../assets/images/BACKGROUND1.jpg) ;
+    color: var(--color-light);
+    border-radius: var(--border-radius-primary);
+    padding: var(--padding-primary);
+}
+.Hero-text{
+    max-width: 500px;
+}
+.Hero-title{
+    font-size: 60px;
+    text-transform:uppercase ;
+    margin-bottom: calc(var(--margin-primary)/2);
+    font-weight: var(--font-weight-bold);
+}
+.Hero-title em {
+    font-size: normal;
+    color: var(--color-primary);
+}
+.Hero-subtitle{
+    font-size: 20 px;
+    color: rgb(0, 0, 0);
+    font-weight: var(--font-weight-normal);
+    margin-bottom: calc(var(--margin-primary)/2);
+}
+
+
+  
+  
+  
+  
+  
+  
